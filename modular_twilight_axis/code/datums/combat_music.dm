@@ -160,6 +160,13 @@
 	credits = "morch kovalski - We've Got Hostiles"
 	musicpath = list('modular_twilight_axis/sound/music/combat_wevegothostiles.ogg')
 
+/datum/combat_music/dendor
+	name = "Druid combat"
+	desc = "The nature calls."
+	shortname = "Druid"
+	credits = "Nevosoft game studio"
+	musicpath = list('modular_twilight_axis/sound/music/combat_dendor.ogg')
+
 /datum/combat_music/cowboy
 	name = "Go Cowboy"
 	desc = ""
